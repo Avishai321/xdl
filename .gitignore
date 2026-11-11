@@ -1,0 +1,21 @@
+# JetBrains IDEs
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Go compiled binaries and test artifacts
+core/bin/
+*.exe
+*.out
+*.test
+
+# Temporary download chunks
+*.xdl_tmp
+
+# Kotlin/UI build directories
+ui/build/
+ui/.gradle/
+ui/local.properties
